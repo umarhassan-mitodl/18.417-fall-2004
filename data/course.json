@@ -1,0 +1,56 @@
+{
+  "term": "Fall",
+  "year": "2004",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Biological Engineering",
+      "Computational Biology"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Molecular Biology"
+    ],
+    [
+      "Mathematics",
+      "Computation"
+    ]
+  ],
+  "legacy_uid": "2349cced-754a-bbc4-022d-5584b6a73ce3",
+  "instructors": {
+    "content": [
+      "fd0ac665-75fa-39e1-bee2-748c789267ff"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "930803e1-cdac-4932-b52e-6b074834702b",
+    "website": "18-417-introduction-to-computational-molecular-biology-fall-2004"
+  },
+  "course_title": "Introduction to Computational Molecular Biology",
+  "hide_download": true,
+  "course_description": "This course introduces the basic computational methods used to understand the cell on a molecular level. It covers subjects such as the sequence alignment algorithms: dynamic programming, hashing, suffix trees, and Gibbs sampling. Furthermore, it focuses on computational approaches to: genetic and physical mapping; genome sequencing, assembly, and annotation; RNA expression and secondary structure; protein structure and folding; and molecular interactions and dynamics.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.417",
+  "course_image_thumbnail": {
+    "content": "01d60aef-2b34-a179-a23d-14f74f1131df",
+    "website": "18-417-introduction-to-computational-molecular-biology-fall-2004"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Projects with Examples",
+    "Problem Sets"
+  ],
+  "site_uid": "c78dc247-5cc6-4bff-892f-48f27c534702",
+  "site_short_id": "18.417-fall-2004",
+  "site_url_path": "courses/18-417-introduction-to-computational-molecular-biology-fall-2004",
+  "title": "Course Metadata"
+}
