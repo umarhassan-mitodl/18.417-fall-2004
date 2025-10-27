@@ -6,8 +6,6 @@ description: 'These notes from Lecture 11 cover the following topics: review; ke
 file: /courses/18-417-introduction-to-computational-molecular-biology-fall-2004/9217abf66a26cdc3a539b8a2f7349e14_lecture_11.pdf
 file_size: 84021
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

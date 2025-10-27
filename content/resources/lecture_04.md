@@ -5,8 +5,6 @@ description: 'These notes from Lecture 4 cover the following topics: recurrence;
 file: /courses/18-417-introduction-to-computational-molecular-biology-fall-2004/f40927a448f09136e1fb7bbdf28fca2a_lecture_04.pdf
 file_size: 208851
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

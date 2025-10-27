@@ -6,8 +6,6 @@ description: 'These notes from Lecture 12 cover the following topics: notation; 
 file: /courses/18-417-introduction-to-computational-molecular-biology-fall-2004/4bcb2459df6be70d5b0da5e8d4742aa0_lecture_12.pdf
 file_size: 96961
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

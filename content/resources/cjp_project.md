@@ -5,8 +5,6 @@ description: Example of a student's final project presentation courtesy of Chris
 file: /courses/18-417-introduction-to-computational-molecular-biology-fall-2004/21f1d9f6501f339073f2552469207d7d_cjp_project.pdf
 file_size: 183221
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

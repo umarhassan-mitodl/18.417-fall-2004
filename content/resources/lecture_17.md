@@ -6,8 +6,6 @@ description: 'These notes from Lecture 17 cover the following topics: The CG isl
 file: /courses/18-417-introduction-to-computational-molecular-biology-fall-2004/b5d252dd90e663c16ac04d641bbfadd3_lecture_17.pdf
 file_size: 92997
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

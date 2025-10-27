@@ -5,8 +5,6 @@ description: 'These notes from Lecture 20 cover the following topics: approaches
 file: /courses/18-417-introduction-to-computational-molecular-biology-fall-2004/656982cba13c06dc2df69d8a9e5d1aad_lecture_20.pdf
 file_size: 117726
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

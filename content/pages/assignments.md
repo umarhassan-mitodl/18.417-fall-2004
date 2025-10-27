@@ -4,8 +4,6 @@ description: 'Selected problem sets come from the text (mentioned as JP): Jones,
   C., and Pavel A. Pevzner. An Introduction to Bioinformatics Algorithms (Computational
   Molecular Biology), Bradford Books. Cambridge, MA: MIT Press, August 1, 2004. ISBN:
   0262101068.'
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

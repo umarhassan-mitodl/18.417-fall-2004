@@ -6,8 +6,6 @@ description: 'These notes from Lecture 7 cover the following topics: space-effic
 file: /courses/18-417-introduction-to-computational-molecular-biology-fall-2004/446cb4bf40bde157d9dd83d7f1c6c650_lecture_07.pdf
 file_size: 152960
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

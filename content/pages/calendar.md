@@ -2,8 +2,6 @@
 content_type: page
 description: The problem sets were handedout in lecture sessions noted in the table
   below.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar

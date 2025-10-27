@@ -6,8 +6,6 @@ description: 'These notes from Lecture 5 cover the following topics: gene file f
 file: /courses/18-417-introduction-to-computational-molecular-biology-fall-2004/4acde14888af72996f60ab92a9a430bf_lecture_05.pdf
 file_size: 149347
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

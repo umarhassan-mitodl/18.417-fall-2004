@@ -32,7 +32,6 @@
     "website": "18-417-introduction-to-computational-molecular-biology-fall-2004"
   },
   "course_title": "Introduction to Computational Molecular Biology",
-  "hide_download": true,
   "course_description": "This course introduces the basic computational methods used to understand the cell on a molecular level. It covers subjects such as the sequence alignment algorithms: dynamic programming, hashing, suffix trees, and Gibbs sampling. Furthermore, it focuses on computational approaches to: genetic and physical mapping; genome sequencing, assembly, and annotation; RNA expression and secondary structure; protein structure and folding; and molecular interactions and dynamics.\n",
   "department_numbers": [
     "18"
@@ -43,7 +42,6 @@
     "content": "01d60aef-2b34-a179-a23d-14f74f1131df",
     "website": "18-417-introduction-to-computational-molecular-biology-fall-2004"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Notes",
     "Projects with Examples",

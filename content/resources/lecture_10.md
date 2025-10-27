@@ -5,8 +5,6 @@ description: 'These notes from Lecture 10 cover the following topics: history; n
 file: /courses/18-417-introduction-to-computational-molecular-biology-fall-2004/f4800301e44750bc2bd5d4fb53f3f8de_lecture_10.pdf
 file_size: 121073
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

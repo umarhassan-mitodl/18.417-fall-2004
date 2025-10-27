@@ -7,8 +7,6 @@ description: 'This handout contains notes on a set of problems assigned from the
 file: /courses/18-417-introduction-to-computational-molecular-biology-fall-2004/a10fe94448b55fe6811073d92349547b_problemset_5.pdf
 file_size: 24543
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

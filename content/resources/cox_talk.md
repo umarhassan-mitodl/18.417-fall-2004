@@ -5,8 +5,6 @@ description: Example of a student's final project presentation courtesy of Russ 
 file: /courses/18-417-introduction-to-computational-molecular-biology-fall-2004/da0618d9694b8d0224f6b854fbbb3a53_cox_talk.pdf
 file_size: 321977
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
